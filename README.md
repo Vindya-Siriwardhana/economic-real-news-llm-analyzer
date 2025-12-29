@@ -9,7 +9,7 @@ This project demonstrates a production-ready approach to automated news categori
 - **LLM-powered categorization** using OpenAI's GPT-3.5
 - **Interactive dashboard** for exploring and analyzing results
 
-**Live Demo:** [View Dashboard](#) *(Add your Streamlit URL after deployment)*
+**Live Demo:** [View Dashboard](https://economic-real-news-llm-analyzer-ayk7twvmutf92aaxwts7et.streamlit.app/)
 
 ## ✨ Features
 
